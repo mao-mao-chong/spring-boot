@@ -11,7 +11,7 @@ spring:
         url: jdbc:mysql://127.0.0.1:3306/springbootwwiwn?useUnicode=true&characterEncoding=utf-8&autoReconnect=true&failOverReadOnly=false&serverTimezone=GMT%2B8&useSSL=false
         #url: jdbc:mysql://39.105.6.174:3306/springbootwwiwn?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
         username: root
-        password: tao145838
+        password: ********
     servlet:
       multipart:
         max-file-size: 10MB
